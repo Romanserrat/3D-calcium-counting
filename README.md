@@ -2,7 +2,7 @@
 ImageJ macro for 3D selection and measurement of calcium events
 
 
-This macro is based in 3D object counter and 3D viewer pluggins. For more info see:
+This macro is based in 3D object counter and 3D viewer pluggins. For more info about these pluggins see:
 
 S. Bolte & F. P. Cordelières, A guided tour into subcellular colocalization analysis in light microscopy, Journal of Microscopy, Volume 224, Issue 3: 213-232
 
